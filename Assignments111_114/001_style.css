@@ -1,0 +1,8 @@
+body {
+	font-family: 'Cairo', sans-serif;
+	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto', sans-serif;
+}
+.text p {
+	font-weight: bold;
+}
